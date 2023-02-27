@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="381mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 38100 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#D6E1FF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil3 {fill:none}
+    .fil0 {fill:#B0C3FC}
+    .fil1 {fill:#D6E1FF}
+    .fil2 {fill:#D6E1FF}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M-0 0.53l38100 0 0 29700 -38100 0 0 -29700z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="-0,0.53 38100,0.53 38100,29700.53 -0,29700.53 "/>
+  <g style="clip-path:url(#id0)">
+   <g id="_2613109067360">
+    <path id="_1" class="fil1" d="M39339.31 14975.58c-6015.39,-3070.09 -12662.01,-3070.09 -19939.8,0 -7277.79,3070.09 -13842.28,3070.09 -19693.47,0l0 9259.73 39633.27 0 0 -9259.73z"/>
+    <rect class="fil2 str0" x="-13426.76" y="21028.66" width="58277.84" height="15285.98"/>
+   </g>
+  </g>
+  <polygon class="fil3" points="-0,0.53 38100,0.53 38100,29700.53 -0,29700.53 "/>
+ </g>
+</svg>
