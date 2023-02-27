@@ -1,6 +1,6 @@
 @import url("https://fonts.google.com/specimen/Red+Hat+Display");
 body {
-  background-image: url("/images/111.jpg");
+  background-image: url("images/111.jpg");
   background-size: cover;
 }
 
